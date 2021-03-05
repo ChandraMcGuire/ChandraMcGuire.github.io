@@ -41,6 +41,11 @@
  
 /* content */
 
+/* .container {
+
+border: 1px pink;
+
+} */
 
 p {
   font-size: absolute;
@@ -146,7 +151,7 @@ input[type=text], select, textarea {
   }
   
   /* Add a background color and some padding around the form */
-  .container {
+  .container2 {
 	border-radius: 5px;
 	background-color: #f2f2f2;
 	padding: 20px;
@@ -159,11 +164,10 @@ input[type=text], select, textarea {
 /* resume */
 
 
-.r22 {
 
 
 
-}
+
 
 
 
@@ -174,18 +178,21 @@ input[type=text], select, textarea {
 
 
   /* holding aces */
-  .bottom1 {
+  img {
+    
+    
+	max-width: 100%;
+	height: auto;
+	width: auto\9; /* ie8 */
     
     position: fixed;
-    width: 45%;
-    position: bottom;
     bottom: 0%;
-    max-height: 80%;
+    
 
    
       }
 
-
+	 
 
 
 
